@@ -1,3 +1,7 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Aslamhowlader/Social-Media-Sentiment-Analysis-using-Machine-Learning/main/group%20photo.jpg" width="900">
-</p>
+## 👥 Group Photo
+
+![Group Photo](https://raw.githubusercontent.com/Aslamhowlader/Social-Media-Sentiment-Analysis-using-Machine-Learning/main/Group_photo.png)
+
+## 📋 Team Members
+
+![Team Members](https://raw.githubusercontent.com/Aslamhowlader/Social-Media-Sentiment-Analysis-using-Machine-Learning/main/team_members_table.png)
